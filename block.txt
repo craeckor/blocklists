@@ -1,4 +1,4 @@
 ||crystalidea.license-manage.com^$important
-redirect.analysis.windows.net^$important
+||redirect.analysis.windows.net^$important
 ||post-kontakt.com^$important
 ||wish.com^$important

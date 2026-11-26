@@ -278,3 +278,5 @@
 @@||opilot.self.agency^$important
 @@||spotube.cc^$important
 @@||docs.spotube.cc^$important
+@@||enumps.soon.it^$important
+@@||soon.it^$important
